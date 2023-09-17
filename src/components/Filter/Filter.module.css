@@ -1,0 +1,8 @@
+.input_wrapper {
+  margin-left: 40px;
+  display: flex;
+  flex-direction: column;
+}
+.input {
+  width: 500px;
+}

@@ -1,0 +1,17 @@
+.form_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.form_box {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.label {
+  align-items: center;
+  display: block;
+}

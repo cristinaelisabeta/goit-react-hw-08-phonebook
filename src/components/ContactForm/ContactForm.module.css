@@ -1,0 +1,10 @@
+.form_wrapper {
+  margin-left: 35px;
+  display: flex;
+}
+.input {
+  margin-right: 80px;
+}
+.input:last-child {
+  margin-right: 0;
+}
