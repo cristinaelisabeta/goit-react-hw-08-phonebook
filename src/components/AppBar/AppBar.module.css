@@ -3,7 +3,7 @@
   display: flex;
   align-items: baseline;
   padding: 5px 10px;
-  background: #98d0ec;
+  background: blue;
   -webkit-box-shadow: 10px 11px 12px -9px rgba(0, 0, 0, 0.74);
   -moz-box-shadow: 10px 11px 12px -9px rgba(0, 0, 0, 0.74);
   box-shadow: 10px 11px 12px -9px rgba(0, 0, 0, 0.74);
